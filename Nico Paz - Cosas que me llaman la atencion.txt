@@ -1,0 +1,8 @@
+* Tienen por premisa "adaptarse a nuevos requerimientos e incorporar mejoras continuas" (Puede que convenga
+tener una capa de negocios que podamos toquetear sin afectar lo demas para manejar esos nuevos requerimientos)
+(Visita 28-4-2016/IMT 1.jpg)
+
+* Parece que pueden recibir como entrada tanto documentos en papel como archivos digitales.
+Todo termina volcandose en digital, pero los archivos digitales que llegan deben resguardarse
+lo mismo de forma separada.
+(Visita 28-4-2016/IMT 3.jpg)
